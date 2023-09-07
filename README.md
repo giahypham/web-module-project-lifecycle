@@ -23,7 +23,7 @@ In this project you will build an application that allows for todos to be added,
 - Allow for completed todos to be filtered out of view when clicking the clear completed button
 
 ## Tools
-
+✓
 - Node 16.x
 - NPM 8.x (update NPM executing `npm i -g npm`)
 - Postman (download the desktop version [here](https://www.postman.com/downloads/))
